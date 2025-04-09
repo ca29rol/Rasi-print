@@ -1,0 +1,417 @@
+.offers{
+    text-align: center;
+    background-color: rgb(115, 175, 25);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+.home{
+    display: flex;
+    gap: 150px;
+}
+#fa-phone-volume{
+    padding-left: 60px;
+}
+
+#pillow{
+    width: 100%;
+    height: 10%;
+}
+.Screencompany{
+    text-align: center;
+}
+.evaluating{
+    text-align: center;
+    display: block;
+    padding-bottom: 50px;
+}
+.artistry{
+    display: flex;
+    gap: 300px;
+}
+.knowmore{
+    display: flex;
+    gap: 20px;
+}
+#know{
+    background-color: green;
+    border: 2px solid ;
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+}
+#contact{
+    border-radius: 30%;
+    border: 2px solid ;
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+}
+.ourservices{
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+}
+#img{
+    width: 70px;
+    padding-top: 50px;
+}
+.rasitechniques{
+    text-align: center;
+}
+.rasirays{
+    display: flex;
+    gap: 50px;
+    padding-left: 50px;
+}
+#beautyprint{
+    width: 30%;
+    height: 20%;
+    padding-left: 10px;
+}
+.projectexpectetions{
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+}
+.highquolity{
+    display: flex;
+    gap: 100px;
+    padding-left: 80px;
+}
+#pcase{
+    width: 50%;
+}
+.stars{
+    color: aqua;
+    gap: 40px;
+}
+.showcasing{
+    text-align: center;
+}
+.thebest{
+    width: 300%;
+    height: 40%;
+    gap:50px;
+}
+#best{
+    width: 100%;
+    height: 10%;
+}
+.logo{
+    gap: 100px;
+    width: 20%;
+    display: flex;
+    padding-left: 20px;
+    padding-top: 50px;
+
+}
+.reachout{
+    text-align: center;
+}
+.ouroffer{
+    display: flex;
+    gap: 30px;
+    background-color: grey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.rp-image{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.copyright{
+    text-align: center;
+}
+.phone{
+    display: flex;
+    gap: 80px;
+}
+
+@media (max-width:600px) {
+    body{
+    width: 100%;
+    overflow-x: hidden;
+   }
+    .offers{
+        text-align: center;
+        background-color: rgb(115, 175, 25);
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-size: 20px;
+    }
+    .home{
+        display: flex;
+        gap: 5px;
+    }
+    #fa-phone-volume{
+        padding-left: 0px;
+    }
+    
+    #pillow{
+        width: 100%;
+        height: 10%;
+    }
+    .Screencompany{
+        text-align: center;
+    }
+    .evaluating{
+        text-align: center;
+        display: block;
+        padding-bottom: 50px;
+        font-size: 10px;
+    }
+    .artistry{
+        display: flow-root;
+        gap: 300px;
+    }
+    .Modernbed{
+        width: 20%;
+    }
+    .knowmore{
+        display: flex;
+        gap: 20px;
+    }
+    #know{
+        background-color: green;
+        border: 2px solid ;
+        border-radius: 50px;
+        width: 20px;
+        height: 20px;
+    }
+    #contact{
+        border-radius: 30%;
+        border: 2px solid ;
+        border-radius: 50px;
+        width: 20px;
+        height: 20px;
+    }
+    .ourservices{
+        display: flow-root;
+        padding-left: 10px;
+        font-size: 20px;
+    }
+    #img{
+        width: 70px;
+        padding-top: 50px;
+    }
+    .rasitechniques{
+        text-align: center;
+    }
+    .rasirays{
+        display: flow-root;
+        gap: 50px;
+        padding-left: 10px;
+    }
+    #beautyprint{
+        width: 30%;
+        height: 20%;
+        padding-left: 10px;
+    }
+    .projectexpectetions{
+        display: flow-root;
+        padding-left: 10px;
+        padding-top: 50px;
+    }
+    .highquolity{
+        display: flow-root;
+        padding-left: 10px;
+    }
+    #pcase{
+        width: 100%;
+    }
+    .stars{
+        color: aqua;
+        gap: 40px;
+    }
+    .showcasing{
+        text-align: center;
+    }
+    .thebest{
+        width: 100%;
+        height: 100%;
+        gap:50px;
+        display: flow-root;
+    }
+    #best{
+        width: 100%;
+        height: 10%;
+    }
+    .logo{
+        width: 10%;
+        display: flow-root;
+        padding-left: 20px;
+        padding-top: 50px;
+    
+    }
+    .reachout{
+        text-align: center;
+    }
+    .ouroffer{
+        display: flow-root;
+        gap: 30px;
+        background-color: grey;
+        padding-top: 50px;
+        padding-left: 10px;
+        padding-bottom: 50px;
+    }
+    .rp-image{
+        padding-top: 30px;
+        padding-left: 20px;
+    }
+    .copyright{
+        text-align: center;
+        padding-top: 30px;
+    }
+    .phone{
+        display: flex;
+        gap: 30px;
+    }
+       
+}
+@media (min-width:601px) {
+    body{
+        width: 100%;
+        overflow-x: hidden;
+       }
+       
+    .offers{
+        text-align: center;
+        background-color: rgb(115, 175, 25);
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-size: 20px;
+    }
+    .home{
+        display: flex;
+        gap: 100px;
+    }
+    #fa-phone-volume{
+        padding-left: 60px;
+    }
+    
+    #pillow{
+        width: 100%;
+        height: 10%;
+    }
+    .Screencompany{
+        text-align: center;
+    }
+    .evaluating{
+        text-align: center;
+        display: block;
+        padding-bottom: 50px;
+    }
+    .artistry{
+        display: flex;
+        gap: 100px;
+    }
+    .knowmore{
+        display: flex;
+        gap: 20px;
+    }
+    #know{
+        background-color: green;
+        border: 2px solid ;
+        border-radius: 50px;
+        width: 20px;
+        height: 20px;
+    }
+    #contact{
+        border-radius: 30%;
+        border: 2px solid ;
+        border-radius: 50px;
+        width: 20px;
+        height: 20px;
+    }
+    .ourservices{
+        display: flex;
+        gap: 100px;
+        padding-left: 100px;
+    }
+    #img{
+        width: 70px;
+        padding-top: 50px;
+    }
+    .rasitechniques{
+        text-align: center;
+    }
+    .rasirays{
+        display: flex;
+        gap: 50px;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #beautyprint{
+        width: 30%;
+        height: 20%;
+        padding-left: 10px;
+    }
+    .projectexpectetions{
+        display: flex;
+        gap: 100px;
+        padding-left: 100px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .highquolity{
+        display: flex;
+        gap: 100px;
+        padding-left: 80px;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    #pcase{
+        width: 80%;
+    }
+    .stars{
+        color: aqua;
+        gap: 40px;
+    }
+    .showcasing{
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .thebest{
+        width: 100%;
+        height: 40%;
+        gap:50px;
+    }
+    #best{
+        width: 100%;
+        height: 10%;
+    }
+    .logo{
+        gap: 10px;
+        width: 100%;
+        display: flow-root;
+        padding-left: 10px;
+        padding-top: 50px;
+    
+    }
+    .reachout{
+        text-align: center;
+        padding-bottom: 50px;
+        padding-bottom: 50px;
+    }
+    .ouroffer{
+        display: flex;
+        gap: 10px;
+        background-color: grey;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .rp-image{
+        padding-top: 30px;
+        padding-left: 20px;
+    }
+    .copyright{
+        text-align: justify;
+    }
+    .phone{
+        display: flex;
+        gap: 40px;
+    }
+    
+}
